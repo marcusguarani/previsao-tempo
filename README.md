@@ -79,5 +79,5 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, estudar e modif
 
 **Marcus Guarani**
 - GitHub: [@marcusguarani](https://github.com/marcusguarani)
-- LinkedIn: [marcus-guarani](https://linkedin.com/in/marcus-guarani-26789425)
+- LinkedIn: [marcus-guarani](https://linkedin.com/in/marcusguarani)
 - Portfólio: [marcusguarani.com.br](https://marcusguarani.com.br)
