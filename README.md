@@ -78,6 +78,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, estudar e modif
 ## 👤 Autor
 
 **Marcus Guarani**
-- GitHub: [@marcusguarani](https://github.com/marcusguarani)
-- LinkedIn: [marcusguarani](https://linkedin.com/in/marcusguarani)
-- Portfólio: [marcusguarani.com.br](https://marcusguarani.com.br)
+
+[![GitHub](https://img.shields.io/badge/GitHub-marcusguarani-181717?style=flat&logo=github)](https://github.com/marcusguarani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcusguarani-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcusguarani)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-marcusguarani.com.br-000000?style=flat&logo=googlechrome&logoColor=white)](https://marcusguarani.com.br)
